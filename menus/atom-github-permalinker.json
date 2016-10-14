@@ -2,25 +2,9 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle atom-github-permalinker",
-        "command": "atom-github-permalinker:toggle"
+        "label": "Copy Github Permalink",
+        "command": "atom-github-permalinker:copy-link"
       }
     ]
-  },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "atom-github-permalinker",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "atom-github-permalinker:toggle"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  }
 }

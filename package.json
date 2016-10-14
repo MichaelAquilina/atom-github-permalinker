@@ -1,5 +1,5 @@
 {
-  "name": "Github Permalinker",
+  "name": "github-permalinker",
   "main": "./lib/github-permalinker.js",
   "version": "0.1.0",
   "description": "Easily share github permalinks to lines in code to your friends and colleagues!",
