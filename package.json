@@ -1,7 +1,7 @@
 {
   "name": "github-permalinker",
   "main": "./lib/github-permalinker.js",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Easily share github permalinks to lines in code to your friends and colleagues!",
   "keywords": [
     "github"
@@ -11,6 +11,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
